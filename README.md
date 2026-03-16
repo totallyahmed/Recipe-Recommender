@@ -22,7 +22,7 @@ Both are layered with an ingredient constraint system (hard and soft filtering m
 ```
 Recipe-Recommender/
 │
-├── CSC577_Team_Rocket_Full_Notebook.ipynb  ← Complete pipeline (run this)
+├── Recipie_Recommender_by_Team_Rocket.ipynb  ← Complete pipeline (run this)
 │
 ├── data/
 │   ├── RAW_recipes.csv              ← Download from Kaggle
